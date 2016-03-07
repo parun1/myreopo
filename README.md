@@ -1,0 +1,2 @@
+my line
+\nonother line
