@@ -1,8 +1,3 @@
-/* 
- * @author
- * @since 20160309
- * a simpe turtle demo
- */
 package com.sd.turtle;
 import ch.aplu.turtle.*;
 
